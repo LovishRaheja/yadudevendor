@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "177262615191",
+    "firebase_url": "https://yadudevendor.firebaseio.com",
+    "project_id": "yadudevendor",
+    "storage_bucket": "yadudevendor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177262615191:android:cc7d229d28d040fa",
+        "android_client_info": {
+          "package_name": "com.gradledev.yadudevendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177262615191-pjnqc8nj1gpm904i2v494i7vm4ngmk5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs7HN-iacF7onQHx4UScDJmrhzmBYgOrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177262615191-pjnqc8nj1gpm904i2v494i7vm4ngmk5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

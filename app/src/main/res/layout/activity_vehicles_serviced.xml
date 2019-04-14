@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<LinearLayout android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <com.gradledev.yadudevendor.helper.VerticalScrollview
+        android:layout_width="fill_parent"
+        android:fillViewport="true"
+        android:layout_height="wrap_content">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".Activities.VehiclesServiced"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="Vehicle Type"/>
+
+
+    <ListView
+        android:id="@+id/vehicleTypeListView"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+
+        android:layout_margin="10dp"
+        android:background="@android:color/darker_gray"
+
+        android:divider="@null"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="Vehicle Type"/>
+
+    <ListView
+        android:id="@+id/bikeCompaniesListView"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+
+        android:divider="@null"
+        android:layout_margin="10dp"
+        android:background="@android:color/darker_gray"
+       />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="Car Companies"/>
+
+    <ListView
+        android:id="@+id/carCompaniesListView"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+
+        android:divider="@null"
+        android:layout_margin="10dp"
+        android:background="@android:color/darker_gray"
+        ></ListView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="Auto Rickshaw Companies"/>
+
+    <ListView
+        android:id="@+id/autoCompaniesListView"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+
+        android:divider="@null"
+        android:layout_margin="10dp"
+        android:background="@android:color/darker_gray"
+        ></ListView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="Truck Companies"/>
+
+    <ListView
+        android:id="@+id/truckCompaniesListView"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+
+        android:divider="@null"
+        android:layout_margin="10dp"
+        android:background="@android:color/darker_gray"
+        ></ListView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="Bus Companies"/>
+
+    <ListView
+        android:id="@+id/busCompaniesListView"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+
+        android:divider="@null"
+        android:layout_margin="10dp"
+        android:background="@android:color/darker_gray"
+        ></ListView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="Heavy Duty Vehicles"/>
+
+    <ListView
+        android:id="@+id/heavyCompaniesListView"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+
+        android:divider="@null"
+        android:layout_margin="10dp"
+        android:background="@android:color/darker_gray"
+        ></ListView>
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Next"
+        android:id="@+id/goToSixth"
+        android:layout_margin="10dp"
+        android:background="@color/colorPrimary"
+        android:layout_gravity="center_horizontal"/>
+
+</LinearLayout>
+    </com.gradledev.yadudevendor.helper.VerticalScrollview>
+</LinearLayout>
+
+

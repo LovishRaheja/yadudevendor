@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Yadude Vendor</string>
+    <string name="sendotp_key">258852ASdFd2bhcr5c50c77b</string>
+    <string name="enterphonenumber">Enter your phone number</string>
+    <string name="selectcountry">Select country</string>
+    <string name="sending_sms">We\'re sending an sms to</string>
+    <string name="inprogress">Verification in\nprogress</string>
+    <string name="verified">Verification successful</string>
+    <string name="failed">Verification failed</string>
+    <string name="entercode">Please enter the code you received</string>
+    <string name="title_activity_info">InfoActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="terms">ACCEPTANCE OF TERMS
+YaDude provides data for customer to search and send enquiry to motor vehicle service providers display a collection of online resources (referred to hereafter as "the Service") subject to the following terms and conditions ("Terms"). By using the Service in any way, you are agreeing to comply with these Terms. In addition, when using particular YaDude services, you agree to abide by any applicable posted guidelines for all YaDude services, which may change from time to time.
+Should you object to any term or condition of these Terms, any guidelines, or any subsequent modifications thereto or become dissatisfied with YaDude in any way, you are encouraged to inform/complain to our customer care team who will do their best to address your concern/s.
+MODIFICATIONS TO THIS AGREEMENT
+We reserve the right, at our sole discretion, to change, modify or otherwise alter these terms and conditions at any time. Such modifications shall become effective immediately upon the posting thereof. You must review this agreement on a regular basis to keep yourself apprised of any changes.
+General
+The center needs to have an android phone/ laptop/ tab / PC to access all the resources provided by the company.
+The center will be informed about the service request received by the YaDude app, if an android phone is available, or by text SMS.
+For each customer directed by YaDude to the center, it is obliged by contract to pay 10% of the amount paid by the customer, for any particular service, as the customer fee to YaDude.
+The Center owners have the full right to decide the working hours of their Center and their staff.
+For the pick and drop services the center must provide a professional driver and he should have a valid company ID card.
+The owner of the garage has the right to choose the type of services they want to provide and the respective prices they want to charge for the same.
+Number of customers will depend on the customer satisfaction and the ratings of the center on the online platform.
+Customer will only be provided if the Center falls in the proximity of the customer and they choose this particular service provider.
+YaDude is an online aggregator platform and does not guarantee for any amount of business.
+Spare parts will be suggested and provided according to the customer’s demand.
+Company will provide some percentage of margin on the Spare Parts (recommended by the company) sold to the customer by the service provider.
+The salary of the staff, mechanics and other workers will be decided by the center owners.
+Company will provide offers to the centers like funding for expansion of garage, better tools, training for new vehicles etc. and these will depend entirely of the performance of the service center and their ratings.
+
+SERVICE CENTER MEMBERSHIP (Portal access fee)
+Service Center (referred to hereafter as "Center")  membership includes listing of Center on YaDude, listing of center on Google My Business, integration of center with the YaDude platform, access to payment gateways, access to Management tools, like billing, inventory management, and access to the online resources, like Training videos, Blogs, Workshops, etc. For availing the membership the center has to pay a non-refundable membership fee of Rs 150 to YaDude and forcing/pushing company or individual (by wrong way of pressure/force) for refund is considered to be illegal and a legal action against the accused will be taken by the company.
+
+Dealer Ranking and Reviews
+To make system transparent for customers/ visitors, YaDude ranks dealers/service centers /repair shops based on formula which is based on many variables like Customer satisfaction, response time, availability, location, etc. The dealer who has more customer satisfaction, quick response time and better location will get higher rank than others. Formula for ranking may change as we get more analysis to provide customer more transparency. There is no guarantee for accuracy of the ranking but YaDude would help customers to meet the best with transparent system.
+
+Motor Vehicle Care Tips and Articles
+The information contained in car care articles, tips, do-it-yourself guide, is for knowledge and educational purposes only and cannot substitute the advice of a professional. Please dont attempt to service a car if you dont have proper knowledge and tools based on that information until verified by a professional, you can harm yourself or damage the vehicle beyond repair. So consulting a professional before implementing the method or information is advised. Un-wanted mails YaDude’s technical team uses secure standard code and caches to prevent hacking or mis-use of web form and update code from time-to-time with recent technology. In case of receipt of any un-wanted mail from YaDude, it should be informed with a url of the page to help us preventing mis-use of web forms.
+INDEMNITY
+You agree to indemnify and hold the Company, its officers, subsidiaries, affiliates, successors, assigns, directors, officers, agents, service providers, suppliers and employees, harmless from any claim or demand, including reasonable attorney fees and court costs, made by any third party due to or arising out of Content you submit, post or make available through the Service, your use of the Service, your violation of the Terms, your breach of any of the representations and warranties herein, or your violation of any rights of another.
+
+Exclusivity
+From the date hereof until the earlier of the Closing or the termination of this Agreement, Service Provider shall not negotiate or enter into any agreement with any other Party with a similar kind of platform, which threatens YaDude’s market share, without the consent of a YaDude’s official.
+
+LIMITATIONS OF LIABILITY
+Under no circumstances shall YaDude be liable for direct, indirect, incidental, special, consequential or exemplary damages (even if YaDude has been advised of the possibility of such damages), resulting from any aspect of your use of the YaDude site or the service, whether the damages arise from use or misuse of the YaDude site or the service, from inability to use the YaDude site or the service, or the interruption, suspension, modification, alteration, or termination of the YaDude site or the service. Such limitation shall also apply with respect to damages incurred by reason of other services or products received through or advertised in connection with the YaDude site or the service or any links on the YaDude site, as well as by reason of any information or advice received through or advertised in connection with the YaDude site or the service or any links on the YaDude site. These limitations shall apply to the fullest extent permitted by law.
+The customer or its representative will have no claim against the company or its representative either civil or criminal nature in respect of death or injury of the customer or any other person or loss or damage to any other property caused by or due to equipment failure, breakdown or accident during servicing or any other activity.
+
+PROPRIETARY RIGHTS
+YaDude does not claim ownership of content that its users post, by posting Content to any public area of the Service, you automatically grant, and you represent and warrant that you have the right to grant, to YaDude an irrevocable, perpetual, non-exclusive, fully paid, worldwide license to use, copy, perform, display, and distribute said Content and to prepare derivative works of, or incorporate into other works, said Content, and to grant and authorize sublicenses (through multiple tiers) of the foregoing. Furthermore, by posting Content to any public area of the Service, you automatically grant YaDude all rights necessary to prohibit any subsequent aggregation, display, copying, duplication, reproduction, or exploitation of the Content on the Service by any party for any purpose.
+
+TERMINATION OF SERVICE
+You agree that YaDude, in its sole discretion, has the right (but not the obligation) to delete or deactivate your account, block your email or IP address, or otherwise terminate your access to or use of the Service (or any part thereof), immediately and without notice, and remove and discard any Content within the Service, for any reason, including, without limitation, if YaDude believes that you have acted inconsistently with the letter or spirit of the Terms. Further, you agree that YaDude shall not be liable to you or any third-party for any termination of your access to the Service. Further, you agree not to attempt to use the Service after said termination. If the customer complains about the parts supplied the company has the right to take strict action against the firm or shop which may even include termination of the services.</string>
+</resources>
